@@ -2,6 +2,22 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+Computational Thinking
+
+Computational Thinking atau disingkat CT adalah suatu proses berpikir yang terjadi saat kita sedang menghadapi suatu persoalan yang dimana kita memformulasikan persoalan, mencari akar permasalahan, mencari solusi dan membuat strategi untuk menentukan/memilih solusi, sehingga solusinya tidak hanya efektif saja, tetapi meningkat menjadi efisien dan meningkat lagi menjadi optimal.
+
+
+
+Kesimpulan  
+CT adalah kemampuan berpikir fundamental  
+CT adalah proses berpikir menuju solusi  
+CT adalah konseptualisasi, bukan programming  
+CT bisa diterapkan di semua bidang:  
+&emsp;&ensp;&ensp; Bidang IT: menghasilkan solusi terprogram  
+&emsp;&ensp;&ensp; Bidang non-IT: "mendekatkan", jika solusinya membutuhkan komputasi  
+CT adalah literasi (membaca, menulis, berbicara)  
+● CT harus dilatih, tidak bisa hanya dipelajari
+
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
