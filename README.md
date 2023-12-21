@@ -9,18 +9,41 @@ Computational Thinking atau disingkat CT adalah suatu proses berpikir yang terja
 
 
 Kesimpulan  
-CT adalah kemampuan berpikir fundamental  
-CT adalah proses berpikir menuju solusi  
-CT adalah konseptualisasi, bukan programming  
-CT bisa diterapkan di semua bidang:  
-&emsp;&ensp;&ensp; Bidang IT: menghasilkan solusi terprogram  
-&emsp;&ensp;&ensp; Bidang non-IT: "mendekatkan", jika solusinya membutuhkan komputasi  
-CT adalah literasi (membaca, menulis, berbicara)  
-● CT harus dilatih, tidak bisa hanya dipelajari
+- CT adalah kemampuan berpikir fundamental  
+- CT adalah proses berpikir menuju solusi  
+- CT adalah konseptualisasi, bukan programming  
+- CT bisa diterapkan di semua bidang:  
+&emsp;&ensp;&ensp;- Bidang IT: menghasilkan solusi terprogram  
+&emsp;&ensp;&ensp;- Bidang non-IT: "mendekatkan", jika solusinya membutuhkan komputasi  
+- CT adalah literasi (membaca, menulis, berbicara)  
+- CT harus dilatih, tidak bisa hanya dipelajari
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+Mesin komputasi adalah sistem yang terdiri dari perangkat keras (hardware) dan perangkat lunak (software) yang bekerja sama untuk menyelesaikan tugas-tugas komputasi. Perangkat keras merupakan komponen fisik yang dapat dilihat dan disentuh, sedangkan perangkat lunak merupakan kumpulan instruksi yang mengatur cara kerja perangkat keras.  
+
+Hardware mesin komputasi terdiri dari berbagai komponen, antara lain:
+- Unit pemrosesan pusat (CPU) adalah komponen utama yang bertanggung jawab untuk menjalankan instruksi program.
+- Memori adalah komponen yang menyimpan data dan program yang sedang dijalankan.
+- Perangkat input adalah komponen yang digunakan untuk memasukkan data ke dalam mesin komputasi, misalnya keyboard, mouse, dan scanner.
+- Perangkat output adalah komponen yang digunakan untuk menampilkan hasil komputasi, misalnya monitor, printer, dan speaker.
+
+Software mesin komputasi terdiri dari berbagai jenis, antara lain:
+- Sistem operasi adalah perangkat lunak yang mengatur cara kerja mesin komputasi secara keseluruhan.
+- Program aplikasi adalah perangkat lunak yang digunakan untuk menyelesaikan tugas-tugas tertentu, misalnya pengolah kata, pengolah angka, dan browser web.
+
+Mesin komputasi memiliki berbagai jenis, antara lain:
+- Mainframe adalah mesin komputasi besar yang memiliki kapasitas komputasi yang tinggi. Mainframe sering digunakan untuk tugas-tugas komputasi yang kompleks, misalnya pengelolaan     database, pemrosesan transaksi, dan simulasi.
+-PC atau Personal Computer adalah mesin komputasi pribadi yang digunakan oleh individu atau kelompok kecil. PC memiliki kapasitas komputasi yang lebih rendah daripada mainframe, tetapi lebih terjangkau dan mudah digunakan.
+- Supercomputer adalah mesin komputasi tercanggih yang memiliki kapasitas komputasi yang sangat tinggi. Supercomputer sering digunakan untuk tugas-tugas komputasi ilmiah dan teknikal yang kompleks, misalnya simulasi cuaca, penelitian medis, dan pemodelan molekuler.
+- Server adalah mesin komputasi yang digunakan untuk memberikan layanan kepada komputer lain dalam jaringan. Server sering digunakan untuk menyimpan data, mengelola basis data, dan menyediakan layanan web.
+- Embedded system adalah komputer yang tertanam di dalam perangkat elektronik. Embedded system berfungsi sebagai otak dari perangkat tersebut, misalnya pada mobil, televisi, dan ponsel.
+- Microcontroller adalah komputer kecil yang sering digunakan untuk keperluan industri. Microcontroller memiliki fungsi yang mirip dengan PC, tetapi dengan kapasitas komputasi yang lebih kecil.
+- Workstation adalah mesin komputasi yang dirancang khusus untuk tugas-tugas grafis, seperti desain, rekayasa, dan ilustrasi. Workstation memiliki kapasitas grafis yang lebih tinggi daripada PC.
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
+========
 
 ## Mencoba Console Sistem Operasi
 
@@ -32,6 +55,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
+https://lucid.app/lucidchart/7daead6f-9ea1-482a-bc21-88ffc6bdaef3/edit?invitationId=inv_435af11f-b241-45f5-8a30-6474767518e9
+
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
@@ -40,11 +65,15 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+=====
+
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
+https://youtu.be/XukVEgnbWOM?si=-45zJtuIgkUj_LyX
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
