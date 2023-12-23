@@ -42,8 +42,14 @@ Mesin komputasi memiliki berbagai jenis, antara lain:
 - Workstation adalah mesin komputasi yang dirancang khusus untuk tugas-tugas grafis, seperti desain, rekayasa, dan ilustrasi. Workstation memiliki kapasitas grafis yang lebih tinggi daripada PC.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+Google Colab adalah alat untuk menulis, menjalankan, atau berbagi kode Python berbasis cloud tanpa perlu menginstal perangkat lunak apa pun
 
-========
+Mengaktifkan Google Colab :
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/40c3c81f-db0e-431f-8fa7-1ed5276760e0)   
+
+Mencoba pemrograman penjumlahan dan perkalian menggunakan bahasa phyton di Google Colab :
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/a7d5d688-c98d-4939-9f3b-1509f283a281)
+
 
 ## Mencoba Console Sistem Operasi
 
@@ -56,6 +62,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 https://lucid.app/lucidchart/7daead6f-9ea1-482a-bc21-88ffc6bdaef3/edit?invitationId=inv_435af11f-b241-45f5-8a30-6474767518e9
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/03beb462-d3a9-450b-8590-3af02dab9a9e)
+
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
@@ -64,6 +72,8 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
+Untuk link GitHubnya :https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/blob/main/UAS/AlgoritmaBubbleSort.java
 
 ![Screenshot (27)](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/5b2bbca6-1c89-46ce-9c86-ba94d59dabca)
 
