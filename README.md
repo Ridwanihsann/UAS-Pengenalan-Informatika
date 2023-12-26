@@ -85,10 +85,31 @@ Untuk link GitHubnya :https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
-## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐  
+
+HackerRank adalah platform online yang menyediakan tantangan pemrograman kompetitif untuk konsumen dan bisnis. Pengembang bersaing dengan menulis program sesuai dengan spesifikasi yang diberikan.
+
+HackerRank menawarkan berbagai macam tantangan pemrograman, mulai dari yang mudah hingga yang sulit. Tantangan-tantangan ini dapat dikelompokkan berdasarkan bahasa pemrograman, tingkat kesulitan, atau kategori.
+
+HackerRank juga menawarkan berbagai fitur untuk membantu pengembang belajar dan berkembang. Fitur-fitur ini termasuk:
+
+Pelatihan: HackerRank menawarkan berbagai kursus dan tutorial untuk membantu pengembang mempelajari berbagai konsep pemrograman.
+Solusi: HackerRank menyediakan solusi untuk semua tantangan pemrograman, sehingga pengembang dapat belajar dari solusi yang lebih baik.
+Komunitas: HackerRank memiliki komunitas yang aktif di mana pengembang dapat berdiskusi dan berbagi tips.
+Platform seperti Hackerrank berguna untuk meningkatkan keterampilan pemrograman, melatih pemecahan masalah, dan mempersiapkan seseorang untuk wawancara pekerjaan di bidang teknologi.
+
+- Disini saya mencoba mendaftar HackeRank :
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/d9b112df-d41e-40e9-9d65-d5e97c6e0507)
+- Tampilan HackeRank
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/373c4687-33c6-4a68-979b-c30707d0ba54)
+- Mencoba penyelesaian soal challenge preparation Java
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/d472a50c-ce34-458a-9207-e21c84552595)
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/80778d48-7c19-4d0e-81fe-1547bc280b2f)
+  
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
+Untuk pembuatan aplikasi disini saya membuat aplikasi musik atau pemutar lagu dengan nama aplikasi MrMucast untuk demonstrasi dan penjelasan lebih lanjutnya dapat dilihat di link berikut :
 https://youtu.be/XukVEgnbWOM?si=-45zJtuIgkUj_LyX
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
@@ -143,6 +164,20 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
+
+WordPress adalah sistem manajemen konten (CMS) yang populer untuk membuat dan mengelola situs web. WordPress adalah perangkat lunak sumber terbuka yang dapat digunakan secara gratis oleh siapa saja.  
+WordPress dapat digunakan untuk membuat berbagai jenis situs web, dari blog hingga situs web bisnis. WordPress memiliki berbagai tema dan plugin yang dapat digunakan untuk menyesuaikan tampilan dan fungsionalitas situs web.
+Berikut adalah beberapa fitur utama WordPress:
+
+Mudah digunakan: WordPress adalah CMS yang mudah digunakan, bahkan untuk pemula.
+Fleksibel: WordPress dapat digunakan untuk membuat berbagai jenis situs web.
+Memiliki komunitas besar: WordPress memiliki komunitas besar pengguna dan pengembang yang dapat membantu Anda jika Anda mengalami masalah.
+
+- Disini saya mencoba membuat blog menggunakan CMS dari wordpres, berikut link dan tampilan blog yang saya buat:
+https://mrniri.wordpress.com/2023/12/19/tafsir-makna-al-quran-tips-dan-hikmah-yang-tak-terbatas-dari-menghafal-al-quran/
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/5942ec3c-969d-4e7c-9ba4-e940a7a7f0bc)
+
+
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
@@ -192,6 +227,14 @@ Penggunaan aplikasi MyMQTT ini pernah dilakukan bersama-sama di kelas mata kulia
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+
+Duolingo adalah platform pembelajaran bahasa gratis yang dirancang agar terasa seperti permainan dan telah terbukti efektif secara ilmiah. Duolingo tidak hanya berisi pembelajaran Bahasa Inggris tetapi banyak jugabahasa lainya seperti Prancis, Spanyol, Jerman, Italia, Portugis, Rusia, Cina, Jepang, Korea, dan Arab.
+
+- Tampilan profil Duolingo
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/abfa238f-b09e-4622-9543-da65b554d28a)
+- Tampilan halaman untuk memilih level/langkah pembelajaran
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/caf893be-3252-4557-99d2-cc39e5eee5d2)
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
