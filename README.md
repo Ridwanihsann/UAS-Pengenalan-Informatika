@@ -32,17 +32,8 @@ Software mesin komputasi terdiri dari berbagai jenis, antara lain:
 - Sistem operasi adalah perangkat lunak yang mengatur cara kerja mesin komputasi secara keseluruhan.
 - Program aplikasi adalah perangkat lunak yang digunakan untuk menyelesaikan tugas-tugas tertentu, misalnya pengolah kata, pengolah angka, dan browser web.
 
-Mesin komputasi memiliki berbagai jenis, antara lain:
-- Mainframe adalah mesin komputasi besar yang memiliki kapasitas komputasi yang tinggi. Mainframe sering digunakan untuk tugas-tugas komputasi yang kompleks, misalnya pengelolaan     database, pemrosesan transaksi, dan simulasi.
--PC atau Personal Computer adalah mesin komputasi pribadi yang digunakan oleh individu atau kelompok kecil. PC memiliki kapasitas komputasi yang lebih rendah daripada mainframe, tetapi lebih terjangkau dan mudah digunakan.
-- Supercomputer adalah mesin komputasi tercanggih yang memiliki kapasitas komputasi yang sangat tinggi. Supercomputer sering digunakan untuk tugas-tugas komputasi ilmiah dan teknikal yang kompleks, misalnya simulasi cuaca, penelitian medis, dan pemodelan molekuler.
-- Server adalah mesin komputasi yang digunakan untuk memberikan layanan kepada komputer lain dalam jaringan. Server sering digunakan untuk menyimpan data, mengelola basis data, dan menyediakan layanan web.
-- Embedded system adalah komputer yang tertanam di dalam perangkat elektronik. Embedded system berfungsi sebagai otak dari perangkat tersebut, misalnya pada mobil, televisi, dan ponsel.
-- Microcontroller adalah komputer kecil yang sering digunakan untuk keperluan industri. Microcontroller memiliki fungsi yang mirip dengan PC, tetapi dengan kapasitas komputasi yang lebih kecil.
-- Workstation adalah mesin komputasi yang dirancang khusus untuk tugas-tugas grafis, seperti desain, rekayasa, dan ilustrasi. Workstation memiliki kapasitas grafis yang lebih tinggi daripada PC.
-
-## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-Google Colab adalah alat untuk menulis, menjalankan, atau berbagi kode Python berbasis cloud tanpa perlu menginstal perangkat lunak apa pun
+## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐  
+Google Colab, atau Colaboratory, adalah platform online gratis yang menyediakan notebook Jupyter untuk menulis dan menjalankan atau berbagi kode Python yang berbasis cloud tanpa perlu menginstal perangkat lunak apa pun.
 
 Mengaktifkan Google Colab :
 ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/40c3c81f-db0e-431f-8fa7-1ed5276760e0)   
@@ -50,10 +41,15 @@ Mengaktifkan Google Colab :
 Mencoba pemrograman penjumlahan dan perkalian menggunakan bahasa phyton di Google Colab :
 ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/a7d5d688-c98d-4939-9f3b-1509f283a281)
 
-
 ## Mencoba Console Sistem Operasi
 
-### Windows CMD [v] ⭐⭐⭐⭐
+### Windows CMD [v] ⭐⭐⭐⭐  
+
+Console Sisitem Operasi Windows CMD atau dingkatan dari Commend prompt adalah antarmuka berbasis teks yang memungkinkan pengguna untuk memberikan perintah berupa teks ke komputer yang ada di sistem operasi Windows.
+
+untuk mencoba Console Sisitem Operasi Windows CMD ini saya mencoba membuat pemrograman pembelian barang/produk yang ditulis di Notepad dan dijalankan atau running menggunakan Sistem Operasi Windows CMD  
+- Berikut adalah tampilan codingan di NotePad dan tampilan Running di Windows CMD: 
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/2394fcbf-fb35-44db-be9d-8cec86b53fbf)
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
@@ -61,7 +57,13 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-https://lucid.app/lucidchart/7daead6f-9ea1-482a-bc21-88ffc6bdaef3/edit?invitationId=inv_435af11f-b241-45f5-8a30-6474767518e9
+Algoritma adalah serangkaian langkah-langkah yang berurutan untuk menyelesaikan masalah.  
+Flowchart adalah diagram yang menggambarkan algoritma dalam bentuk gambar yang menggunakan simbol-simbol untuk menunjukan setiap langkan demi langkahnya dari yang harus dilakukan.
+
+- Berikut adalah sebuah algoritma dalam bentuk Flow Chart untuk menjalankan sebuah aplikasi musik yang saya buat menggunakan lucid.app :  
+
+https://lucid.app/lucidchart/7daead6f-9ea1-482a-bc21-88ffc6bdaef3/edit?invitationId=inv_435af11f-b241-45f5-8a30-6474767518e9  
+
 ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/03beb462-d3a9-450b-8590-3af02dab9a9e)
 
 
@@ -72,6 +74,9 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
+Algoritma Bubble Sort adalah algoritma pengurutan sederhana yang bekerja dengan cara membandingkan dua elemen berurutan dan menukarnya jika elemen pertama lebih kecil dari elemen kedua. Algoritma ini terus mengulangi langkah ini sampai semua elemen diurutkan.  
+Untuk Algoritma Bubble Sort yang saya coba yaitu membuat pengurutan ascending atau dari yang kecil ke besar menggunakan type data Int, dengan codingan sebagai berikut:
 
 Untuk link GitHubnya :https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/blob/main/UAS/AlgoritmaBubbleSort.java
 
@@ -161,6 +166,18 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+
+Protokol MyMQTT adalah salah satu sistem komunikasi dalam Internet of Things (IoT) yang memungkinkan perangkat IoT berinteraksi satu sama lain. Berbasis pada MQTT (Message Queuing Telemetry Transport), ini adalah implementasi ringan dan menggunakan model publish-subscribe. Dalam konteks MyMQTT, perangkat IoT dapat berperan sebagai pengirim atau penerima pesan ke topik khusus untuk pertukaran informasi. Tujuannya adalah untuk memastikan efisiensi, keandalan, dan keamanan dalam komunikasi antar perangkat IoT. Kalo Singkatnya, MyMQTT ini adalah aplikasi yang memfasilitasi pertukaran data yang efisien antar perangkat IoT melalui model publish-subscribe, yang memungkinkan perangkat untuk saling mengirim dan menerima pesan pada topic yang telah dihubungkan sebelumnya.
+
+Penggunaan aplikasi MyMQTT ini pernah dilakukan bersama-sama di kelas mata kuliah Pengenalan informatika bersama pak Insan Al-Amin  
+- Tampilan Connect to broker dari apikasi MyMQTT
+  ![Screenshot_20231226_065754_MyMQTT](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/327d6bb1-85ba-4df9-a936-502d264fc6db)
+- Tampilan Publish dari apikasi MyMQTT
+  ![Screenshot_20231226_065833_MyMQTT](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/9fc66b37-1b20-4f5a-b7fb-302aa9b031a2)
+- Tampilan Subscribe dari apikasi MyMQTT
+  ![Screenshot_20231226_065837_MyMQTT](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/b488ed89-0cbf-4e61-a3fd-205efc2a833f)
+- Tampilan Dashboard dari apikasi MyMQTT
+  ![Screenshot_20231226_065841_MyMQTT](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/1231e097-daaa-4a04-9922-98822d11dbad)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
