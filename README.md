@@ -55,6 +55,13 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+Linux terminal Google Colab adalah terminal Linux yang kegunaannya kuranglebih sama seperti terminal atau CMD pada umumnya yang berfungsi untuk menjalankan perintah teks dan mengakses berbagai fitur pekerjaan sistem serta menjalankan skrip dan program. Namun bedanya Linux terminal di Google Colab ini disediakan oleh Google Cloud Shell, yang merupakan mesin virtual Linux yang berjalan di cloud.
+
+Disini saya mencoba menjalankan Linux Terminal pada Google Colab untuk mengakses atau melihat folder-folder yang berada di Google Drive saya dengan cara sebagai berikut :
+
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/0214ffad-5d89-449a-9c3b-026d104030aa)
+
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 Algoritma adalah serangkaian langkah-langkah yang berurutan untuk menyelesaikan masalah.  
