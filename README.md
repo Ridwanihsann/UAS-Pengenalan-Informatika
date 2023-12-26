@@ -246,6 +246,26 @@ Duolingo adalah platform pembelajaran bahasa gratis yang dirancang agar terasa s
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
+Ada banyak sekali top Github yang saya minati, terutama mereka yang sering shering pengalaman dan pengetahuannya seputar IT di channel YouTube atau sosial media lainya, beberapa diantaranya yaitu:
+
+- Programmer Zaman Now / https://github.com/ProgrammerZamanNow
+
+  Channer Programmer Zaman Now atau pemiliknya yaitu Eko Kurniawan Khannedy seorang Technical architect at one of the biggest
+ecommerce company in Indonesia, dalam channel YouTube nya beliau sering membagikan tutorial secara jelas dan lengkap langkah demi langkah dalam setiap contentnya, sehingga sangat bermanfaat bagi yang ingin belajar mengenai seputar pemrograman meskipun belum memiliki basic pemrograman seperti saya. 
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/8c5b9f55-b952-4392-bc2b-3e6ffb9fc5e9)
+- Dea Afrizal / https://github.com/deaaprizal
+
+  Selanjutnya Top Github yang saya minati adalah Dea Afrizal, Dea Aprizal ini juga sering membagikan tutorial dan tips-tips bagi anak IT, dia juga hanya memberikan seputar tutorial coding atau seputar ngoding bahkan dia juga share IT dibidang yang lain seperti di bidang kerja dan bahkan juga seperti di bidang perusahaan.
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/3f84f63c-046e-4fd9-a3b5-16db1931827c)
+- Pak Sandhika Galih / https://github.com/sandhikagalih
+
+  Selanjutnya Top Github yang saya minati adalah Pak SandikaGalih dimana saya menyukainya karena memberikan tutorial yang mudah dipahami serta saat memberikan informasi tentang IT cukup detail, dan dia juga merupakan seorang web development serta seorang dosen di salah satu kampus indonesia. Beliau juga sering membagikan tips-tips pembelajaran mengenai IT terutama untuk pada mahasiswa dibidang IT.
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/e8789cc9-21a9-450c-aaea-14afd5db9221)
+
+
+
+
+
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
