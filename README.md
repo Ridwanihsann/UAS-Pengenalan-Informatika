@@ -1,4 +1,4 @@
-# Hello Informatics !
+==# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
@@ -176,6 +176,8 @@ Memiliki komunitas besar: WordPress memiliki komunitas besar pengguna dan pengem
 - Disini saya mencoba membuat blog menggunakan CMS dari wordpres, berikut link dan tampilan blog yang saya buat:
 https://mrniri.wordpress.com/2023/12/19/tafsir-makna-al-quran-tips-dan-hikmah-yang-tak-terbatas-dari-menghafal-al-quran/
 ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/5942ec3c-969d-4e7c-9ba4-e940a7a7f0bc)
+- Tampilan editor dari Wordpress
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/fdfd8a05-dd26-4f57-b61d-39cdedda2a99)
 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
