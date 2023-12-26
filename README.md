@@ -270,6 +270,21 @@ ecommerce company in Indonesia, dalam channel YouTube nya beliau sering membagik
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+Linkedin profile milik saya pribadi dengan nama Muhammad Ridwan Nur Ihsan https://www.linkedin.com/in/muhammad-ridwan-nur-ihsan
+List Akun-akun inspiratif Bertema Informatika :
+
+- PT Tokopeia
+- Shopee
+- Gojek
+- Tiket.com
+- Traveloka
+- PT Pertamina
+- Open AI
+- Github
+- Google
+- Microsoft
+- Bibit
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
