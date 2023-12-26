@@ -274,6 +274,14 @@ ecommerce company in Indonesia, dalam channel YouTube nya beliau sering membagik
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+Saya pernah mengikuti beberapa Couse dan event / workshop di semester 1 ini, dan saat ini sedang mencoba mengikuti coure, beberapa diantaranya :  
+
+- GDSC Study Club by DISCORD
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/857ef73a-98bc-4111-aa9f-b57043faced9)
+- RevoU Fundamental Course Software Engineering
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/fb099189-b2f4-480e-a323-dd14ff4b32cc)
+
+
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
 
