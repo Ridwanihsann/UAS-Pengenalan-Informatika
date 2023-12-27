@@ -78,6 +78,8 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/c90fda78-7ae6-4004-a5ef-b51430fea6aa)
+
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
