@@ -151,6 +151,9 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
+Untuk video penjelasan dan mencoba Tool AI dapat dilihat di link berikut :
+https://youtu.be/wYZzf4fCmIA
+
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
