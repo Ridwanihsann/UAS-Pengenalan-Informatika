@@ -2,6 +2,8 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+Link penjelasan di blog : https://wordpress.com/view/uaspi.wordpress.com
+
 Computational Thinking
 
 Computational Thinking atau disingkat CT adalah suatu proses berpikir yang terjadi saat kita sedang menghadapi suatu persoalan yang dimana kita memformulasikan persoalan, mencari akar permasalahan, mencari solusi dan membuat strategi untuk menentukan/memilih solusi, sehingga solusinya tidak hanya efektif saja, tetapi meningkat menjadi efisien dan meningkat lagi menjadi optimal.
@@ -19,6 +21,8 @@ Kesimpulan
 - CT harus dilatih, tidak bisa hanya dipelajari
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+
+Link penjelasan di blog : https://wordpress.com/view/uaspi.wordpress.com
 
 Mesin komputasi adalah sistem yang terdiri dari perangkat keras (hardware) dan perangkat lunak (software) yang bekerja sama untuk menyelesaikan tugas-tugas komputasi. Perangkat keras merupakan komponen fisik yang dapat dilihat dan disentuh, sedangkan perangkat lunak merupakan kumpulan instruksi yang mengatur cara kerja perangkat keras.  
 
