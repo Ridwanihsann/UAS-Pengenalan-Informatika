@@ -152,7 +152,14 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Untuk video penjelasan dan mencoba Tool AI dapat dilihat di link berikut :
-https://youtu.be/wYZzf4fCmIA
+https://youtu.be/wYZzf4fCmIA  
+
+- Mencari hahu atau melacak suatu domain menggunakan situs seperti who.is atau nsLookUp :
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/96fd55a0-31f4-4846-9401-4f7c5223f1c5)
+
+- Mengeksplor macam-macam nama domain :
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/e024c457-a9ae-4a3d-8a35-cfb329caa400)
+
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
@@ -234,6 +241,11 @@ https://youtu.be/Sl_wMzaEHpg
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+
+Untuk video penjelasan dan mencoba Eksplorasi Kaggle dapat dilihat di link berikut :  
+https://youtu.be/cQrsph-IAg0  
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/99b13099-b7ad-4eba-ac1d-9b706a3bf444)
+
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
