@@ -83,6 +83,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Untuk video penjelasan dan mencoba Tool AI dapat dilihat di link berikut :  
+https://youtu.be/x-EFYaDS2zE
 
 - Tampilan pembuatan Scracth
 ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/454c1e09-9501-4e02-ae54-327b4caf2c7d)
