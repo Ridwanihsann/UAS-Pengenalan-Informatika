@@ -201,6 +201,18 @@ https://mrniri.wordpress.com/2023/12/19/tafsir-makna-al-quran-tips-dan-hikmah-ya
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+Untuk video penjelasan dan mencoba Tool AI dapat dilihat di link berikut :
+https://youtu.be/Sl_wMzaEHpg
+
+- Mencoba Text to Text menggunakan ChatGPT
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/ed3d405b-9b38-4177-9397-62b82e2c346c)
+- Mencoba Text to Text menggunakan Google Bard
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/44eb4d25-d6ca-43fe-b4f3-0f71d5dbb4d1)
+- Mencoba Text to Image menggunakan Bing
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/3024fb19-3f47-4de7-ba47-b617911042c1)
+- Dan disini saya juga mencoba fitur AI yang berada di Canva
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/93c1375b-d97f-42c8-8451-b3f0be15a8ed)
+
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
