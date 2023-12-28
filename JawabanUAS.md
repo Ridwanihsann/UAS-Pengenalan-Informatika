@@ -185,6 +185,16 @@ Referensi []
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
+Untuk video penjelasan dan mencoba Developer Tools Pada Web Browser dapat dilihat di link berikut :  
+https://youtu.be/jxLFFgkRc6E
+
+- Mencoba DevTools bawaan dari Browser 
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/a9edf2aa-5632-4719-8668-a3f934299a37)
+- Mencoba DevTools dari Ekstention yang ada di Chrome
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/0b788abd-eab1-45df-9d6b-759d0d8396de)
+
+
+
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
