@@ -222,6 +222,10 @@ https://mrniri.wordpress.com/2023/12/19/tafsir-makna-al-quran-tips-dan-hikmah-ya
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
+- Mencoba pengeditan video menggnakan aplikasi CapCut :
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/c0fe5eda-0913-4661-8b17-340dfc4b7175)
+
+
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
