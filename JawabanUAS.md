@@ -312,6 +312,11 @@ List Akun-akun inspiratif Bertema Informatika :
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+Link profile Gthub : https://github.com/Ridwanihsann
+
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/03657dbc-7767-46e1-b9a2-d8f8a392c9a2)
+
+
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 Saya pernah mengikuti beberapa Couse dan event / workshop di semester 1 ini, dan saat ini sedang mencoba mengikuti coure, beberapa diantaranya :  
