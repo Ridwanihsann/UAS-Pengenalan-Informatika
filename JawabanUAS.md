@@ -369,6 +369,11 @@ Duolingo adalah platform pembelajaran bahasa gratis yang dirancang agar terasa s
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
+Untuk video penjelasan dan mencoba HelloTalk dapat dilihat di link berikut :
+
+![Screenshoot HelloTalk](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/151bfed0-61ef-45e3-904e-4968a4db3575)
+
+
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 Ada banyak sumber yang tersedia untuk membantu kita menemukan lowongan pekerjaan mengenai IT. Kita dapat mencari lowongan pekerjaan di situs web pencari kerja, seperti Indeed, JobStreet, glints, LinkedIn dan masih banyak lagi. kita juga dapat mencari lowongan pekerjaan di situs web perusahaan IT yang kita minati. Selain itu, kita juga bisa menghadiri acara-acara atau seminar-seminar mengenai IT agar bertemu dengan orang-orang yang bekerja di bidang IT.  
