@@ -47,6 +47,10 @@ Mencoba pemrograman penjumlahan dan perkalian menggunakan bahasa phyton di Googl
 
 ## Mencoba Console Sistem Operasi
 
+- Interface paling dasar yang bisa manusia dan aplikasi pergunakan untuk mengakses program di sistem operasi
+- Ketika membangun solusi digital berbasis client-server, akan banyak konfigurasi dan optimalisasi program memanfaatkan console
+- Program berbasis console jauh lebih cepat dari program berbasis GUI
+
 ### Windows CMD [v] ⭐⭐⭐⭐  
 
 Console Sisitem Operasi Windows CMD atau dingkatan dari Commend prompt adalah antarmuka berbasis teks yang memungkinkan pengguna untuk memberikan perintah berupa teks ke komputer yang ada di sistem operasi Windows.
@@ -102,6 +106,15 @@ Untuk link GitHubnya :https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+
+IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
+Contoh:
+
+- VS Code
+- Unity
+- Android Studio
+- Notepad ++
+- Vim
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐  
 
