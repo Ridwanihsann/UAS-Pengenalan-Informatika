@@ -251,10 +251,22 @@ Untuk mengakses konten Multimedia seperti Image/Gambar, Audio, dan Video kita da
 
 
 
-
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+Ada beberapa situs yang dapat kita gunakan untuk membuat game simulasi menggunakan logo, seperti menggunakan NetLogo, StarLogo dan sebagainya.
+
+- Disini saya mencoba menggunakan dengan NetLogo :
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/a3dc7b14-8a4a-4a8d-9e3f-bd395f6aed51)
+
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+
+Mencoba pemrosesan konten multimedia image dengan referensi dari link berikut :  
+https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-07-31-01-Introducing-Image-Processing-and-scikit-image.ipynb
+
+- Mencoba pemrosesan merubah warna di google colab : 
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/122f6efb-5c27-419e-9d71-ac575bda1868)
+
+
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
