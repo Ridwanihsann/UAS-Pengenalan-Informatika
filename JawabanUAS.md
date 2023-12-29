@@ -1,4 +1,4 @@
-![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/756bf802-574c-4baa-996f-966c11264ad8)# Hello Informatics !
+# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
