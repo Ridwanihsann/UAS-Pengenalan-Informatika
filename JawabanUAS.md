@@ -222,28 +222,31 @@ https://mrniri.wordpress.com/2023/12/19/tafsir-makna-al-quran-tips-dan-hikmah-ya
 
 Untuk mengakses konten Multimedia seperti Image/Gambar, Audio, dan Video kita dapat melihatnya dengan mudah dari aplikasi ataupun webstie-website seperti:  
 
-gambar dan icon:
-Pinterest
-shutterstock
-freepik
-unsplash
-pexels
-video:
-youtube
-envanto elements
-netflix
-Audio:
-spotify
-soundclouds
-envantoelements
-pixelabs
-etc
+- Untuk mengakses konten Multimedia Image/Gambar :
+  - Pinterest
+  - shutterstock
+  - freepik
+  - unsplash
+  - pexels
+  - video:
+- Untuk mengakses konten Multimedia Video :
+  - youtube
+  - Viu
+  - netflix
+- Untuk mengakses konten Multimedia Audio:
+  - spotify
+  - soundclouds
+  - envantoelements
+  - pixelabs
 
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 - Mencoba pengeditan video menggnakan aplikasi CapCut :
 ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/c0fe5eda-0913-4661-8b17-340dfc4b7175)
+- Mencoba pengeditan image menggnakan Photoshop :
+  ![WhatsApp Image 2023-12-29 at 17 06 43](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/ace74167-41af-42bc-845e-f6159601dd54)
+
 
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
