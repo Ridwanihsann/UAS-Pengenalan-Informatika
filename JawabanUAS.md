@@ -283,6 +283,8 @@ https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_no
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+
+
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 Untuk video penjelasan dan mencoba Tool AI dapat dilihat di link berikut :
@@ -297,9 +299,19 @@ https://youtu.be/Sl_wMzaEHpg
 - Dan disini saya juga mencoba fitur AI yang berada di Canva
   ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/93c1375b-d97f-42c8-8451-b3f0be15a8ed)
 
+
+
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+
+
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+
+Untuk video penjelasan dan mencoba Data Visualization Tools dapat dilihat di link berikut :  
+https://youtu.be/B5Bqc8pi8Bg
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/7de0fa32-7171-45f5-8db9-e91ae1db7fb6)
+
+
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
