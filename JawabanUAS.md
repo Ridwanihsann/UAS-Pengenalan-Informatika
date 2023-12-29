@@ -246,6 +246,9 @@ Untuk mengakses konten Multimedia seperti Image/Gambar, Audio, dan Video kita da
 ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/c0fe5eda-0913-4661-8b17-340dfc4b7175)
 - Mencoba pengeditan image menggnakan Photoshop :
   ![WhatsApp Image 2023-12-29 at 17 06 43](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/ace74167-41af-42bc-845e-f6159601dd54)
+- Mencoba pengeditan Audio menggnakan n-Track Studio :
+  ![WhatsApp Image 2023-12-29 at 17 25 32](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/de5d538e-5b4a-4e33-a62a-4cdffb9a8a25)
+
 
 
 
