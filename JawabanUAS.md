@@ -351,6 +351,10 @@ Penggunaan aplikasi MyMQTT ini pernah dilakukan bersama-sama di kelas mata kulia
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+Untuk video penjelasan dari perbedaan Jurnal, Conference, Artikel, dan Grade Jurnal dapat dilihat di link berikut :  
+https://youtu.be/ra2uJCO5-8M
+
+
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
