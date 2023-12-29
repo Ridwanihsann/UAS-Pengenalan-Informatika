@@ -309,11 +309,18 @@ https://youtu.be/Sl_wMzaEHpg
 
 Untuk video penjelasan dan mencoba Data Visualization Tools dapat dilihat di link berikut :  
 https://youtu.be/B5Bqc8pi8Bg
+
 ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/7de0fa32-7171-45f5-8db9-e91ae1db7fb6)
 
 
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+Untuk video penjelasan dan mencoba Data Visualization Tools dapat dilihat di link berikut :  
+https://youtu.be/JnrBVHai7UM
+
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/2c00a16c-4daf-41bc-907d-6a8e8b05e377)
+
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
