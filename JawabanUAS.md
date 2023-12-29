@@ -357,6 +357,9 @@ Penggunaan aplikasi MyMQTT ini pernah dilakukan bersama-sama di kelas mata kulia
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+Untuk video penjelasan dan Mengeksplor Profesi Terkait Informatika dan Profesi yang Diminati dapat dilihat di link berikut :  
+https://youtu.be/fYjI77pnv4c
+
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 Duolingo adalah platform pembelajaran bahasa gratis yang dirancang agar terasa seperti permainan dan telah terbukti efektif secara ilmiah. Duolingo tidak hanya berisi pembelajaran Bahasa Inggris tetapi banyak jugabahasa lainya seperti Prancis, Spanyol, Jerman, Italia, Portugis, Rusia, Cina, Jepang, Korea, dan Arab.
