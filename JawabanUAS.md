@@ -220,6 +220,26 @@ https://mrniri.wordpress.com/2023/12/19/tafsir-makna-al-quran-tips-dan-hikmah-ya
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+Untuk mengakses konten Multimedia seperti Image/Gambar, Audio, dan Video kita dapat melihatnya dengan mudah dari aplikasi ataupun webstie-website seperti:  
+
+gambar dan icon:
+Pinterest
+shutterstock
+freepik
+unsplash
+pexels
+video:
+youtube
+envanto elements
+netflix
+Audio:
+spotify
+soundclouds
+envantoelements
+pixelabs
+etc
+
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 - Mencoba pengeditan video menggnakan aplikasi CapCut :
