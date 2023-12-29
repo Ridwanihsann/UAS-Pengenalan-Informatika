@@ -1,4 +1,4 @@
-# Hello Informatics !
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/756bf802-574c-4baa-996f-966c11264ad8)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
@@ -301,7 +301,25 @@ Duolingo adalah platform pembelajaran bahasa gratis yang dirancang agar terasa s
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
+Ada banyak sumber yang tersedia untuk membantu kita menemukan lowongan pekerjaan mengenai IT. Kita dapat mencari lowongan pekerjaan di situs web pencari kerja, seperti Indeed, JobStreet, glints, LinkedIn dan masih banyak lagi. kita juga dapat mencari lowongan pekerjaan di situs web perusahaan IT yang kita minati. Selain itu, kita juga bisa menghadiri acara-acara atau seminar-seminar mengenai IT agar bertemu dengan orang-orang yang bekerja di bidang IT.  
+Disini saya mau mencoba mengeksplor beberapa situs penyedia lowongan pekerjaan, sebagai berikut:
+
+- Mencoba Eksplorasi Lowongan Pekerjaan IT di Indeed
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/d58fa413-c9e6-4444-985d-4d860527d091)
+- Mencoba Eksplorasi Lowongan Pekerjaan IT di JobStreet
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/104d674b-8334-47b2-9e09-0ebc9a2d732c)
+
+
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+
+Ada banyak sumber yang tersedia untuk membantu kita menemukan lowongan Freelancer mengenai IT. Kita dapat mencari lowongan Freelancer di situs web Freelancer seperti Fiver, Upwork, Toptal, Freelancer.com dan masih banyak lagi. kita juga dapat mencari lowongan Freelancer di situs web perusahaan IT yang kita minati. Selain itu, kita juga bisa menghadiri acara-acara atau seminar-seminar mengenai IT agar bertemu dengan orang-orang yang bekerja di bidang IT.  
+Disini saya mau mencoba mengeksplor beberapa situs penyedia lowongan untuk Freelancer, sebagai berikut:
+
+- Mencoba Eksplorasi Freelancer IT di Fiver, disini kita bisa lihat banyak sekali Freelancer mengenai IT, ada java pembatan website menggunakan Wordpress dan masih banyak lagi
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/5661b69b-4da4-496a-9099-a62b68d52cb2)
+- Mencoba Eksplorasi Freelancer IT di Upwork, dsini juga banyak sekali Trusted remote development and IT experts yang bisa kita lihat portofolionya dan bisa kita ikuti atau pelajari agar dapat menjadi Freelancer profesional
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/6f7b261d-5f06-41d8-91dd-d13948da0601)
+
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
