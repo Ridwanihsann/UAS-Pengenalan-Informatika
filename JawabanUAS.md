@@ -305,6 +305,18 @@ Duolingo adalah platform pembelajaran bahasa gratis yang dirancang agar terasa s
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+Roadmap.sh ini adalah semacam online resource yang dapat kita gunakan sebagai pemandu dalam langkah langkah pembelajaran di dalam dunia IT khususnya. Roadmap.sh ini memberikan visualisasi yang jelas tentang langkah-langkah yang diperlukan untuk mencapai tingkat keahlian dalam suatu bidang. yang mana bisa menjadi sumber yang sangat berguna bagi kita yang ingin merencanakan dan mengikuti jalur pengembangan keterampilan teknis kita. Dengan mengikuti roadmap yang sesuai, maka kita akan dengan baik ubtuk  mempelajari keterampilan yang tepat untuk mencapai tujuan
+
+Ada beberapa Roadmap yang saya minati di, diantaranya :
+
+- Cyber Security Expert
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/312e19ef-dcdb-47ba-a5ac-0cd17427f88d)
+- Blockchain Developer
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/1a4af6ae-3b9c-4cc0-8140-f9f5cc7e53ff)
+- Android Developer
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/a493886e-d29d-4f82-8329-94eaadbb1f10)
+
+
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 Ada banyak sekali top Github yang saya minati, terutama mereka yang sering shering pengalaman dan pengetahuannya seputar IT di channel YouTube atau sosial media lainya, beberapa diantaranya yaitu:
