@@ -213,16 +213,10 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
+
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-
-WordPress adalah sistem manajemen konten (CMS) yang populer untuk membuat dan mengelola situs web. WordPress adalah perangkat lunak sumber terbuka yang dapat digunakan secara gratis oleh siapa saja.  
-WordPress dapat digunakan untuk membuat berbagai jenis situs web, dari blog hingga situs web bisnis. WordPress memiliki berbagai tema dan plugin yang dapat digunakan untuk menyesuaikan tampilan dan fungsionalitas situs web.
-Berikut adalah beberapa fitur utama WordPress:
-
-Mudah digunakan: WordPress adalah CMS yang mudah digunakan, bahkan untuk pemula.
-Fleksibel: WordPress dapat digunakan untuk membuat berbagai jenis situs web.
-Memiliki komunitas besar: WordPress memiliki komunitas besar pengguna dan pengembang yang dapat membantu Anda jika Anda mengalami masalah.
+WordPress adalah sistem manajemen konten (CMS) yang populer untuk membuat dan mengelola situs web. WordPress adalah perangkat lunak sumber terbuka yang dapat digunakan secara gratis oleh siapa saja. Dapat digunakan untuk membuat berbagai jenis situs web, blog hingga situs web bisnis. WordPress juga memiliki berbagai tema dan plugin yang dapat digunakan untuk menyesuaikan tampilan dan fungsionalitas situs web.
 
 - Disini saya mencoba membuat blog menggunakan CMS dari wordpres, berikut link dan tampilan blog yang saya buat:
 https://mrniri.wordpress.com/2023/12/19/tafsir-makna-al-quran-tips-dan-hikmah-yang-tak-terbatas-dari-menghafal-al-quran/
