@@ -160,6 +160,9 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+Untuk video penjelasan Komponen Uniform Resource Locator (URL) dapat dilihat di link berikut:  
+https://youtu.be/ktZTkaD4uDk
+
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
