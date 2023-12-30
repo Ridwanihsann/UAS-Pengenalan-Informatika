@@ -495,6 +495,21 @@ Saya pernah mengikuti beberapa Couse dan event / workshop di semester 1 ini, dan
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
+Buku yang saya baca berjudul :
+
+The Hidden Language of Computer Hardware and Software  
+karya :  
+Charles Petzold  
+
+Buku ini membahas tentang dasar-dasar komputer, mulai dari sejarah, komponen, hingga bahasa pemrograman. Buku ini ditulis dengan gaya yang mudah dipahami dan dilengkapi dengan ilustrasi yang menarik, sehingga cocok untuk pemula yang ingin belajar tentang komputer. Buku ini juga dilengkapi dengan ilustrasi yang menarik, yang dapat membantu mempermudah untuk memahami konsep-konsep yang dijelaskan dalam buku ini. Ilustrasi-ilustrasinya juga dibuat dengan jelas, sehingga dapat membantu kita untuk memahami konsep-konsep dengan lebih baik.  
+
+Buku ini dapat menginspirasi untuk yang baru terjun kedunia IT seperti saya, karena dengan membaca buku ini membuka mata saya tentang betapa luas dan menariknya dunia teknologi ini, dan tidak hanya akan bermanfaat di zaman sekarang saja, tetapi dengan melihat perkembangan teknologi yang begitu cepat akan menjadi sesuatu hal yang akan luar biasa di masa deapn nanti. Dan saya ingin menjadi bagian dari perkembangan teknologi ini.
+
+
+
+
+
+
 
 
 
