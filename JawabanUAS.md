@@ -169,6 +169,10 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+
+Untuk video penjelasan dan demonstrasi Penggunaan Web Browser untuk Mengakses Halaman Website HTML dapat dilihat di link berikut :  
+https://youtu.be/vFdr7-V2gPw
+
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
@@ -367,7 +371,7 @@ Penggunaan aplikasi MyMQTT ini pernah dilakukan bersama-sama di kelas mata kulia
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 Untuk video penjelasan dan Mencoba Memproses File CSV Google Colab dapat dilihat di link berikut :  
-
+https://youtu.be/8YV0sKxA9S4
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
