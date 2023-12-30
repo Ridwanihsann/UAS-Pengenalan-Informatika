@@ -280,6 +280,8 @@ https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_no
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+Untuk video penjelasan dan mencoba Tool AI dapat dilihat di link berikut :  
+https://youtu.be/JvOSL-GE0ns
 
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
@@ -373,7 +375,8 @@ Duolingo adalah platform pembelajaran bahasa gratis yang dirancang agar terasa s
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
-Untuk video penjelasan dan mencoba HelloTalk dapat dilihat di link berikut :
+Untuk video penjelasan dan mencoba HelloTalk dapat dilihat di link berikut :  
+https://youtu.be/oF30IID5XoA
 
 ![Screenshoot HelloTalk](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/151bfed0-61ef-45e3-904e-4968a4db3575)
 
