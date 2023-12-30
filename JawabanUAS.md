@@ -145,7 +145,12 @@ https://youtu.be/XukVEgnbWOM?si=-45zJtuIgkUj_LyX
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-- Menginstal PostgreSQL :
+Sebelumnya apasi database itu, jadi databes itu adalah sekumpulan data informasi atau data yang terorganisasi dan terstruktur, yang umumnya disimpan secara elektronik pada sebuah sistem komputer, yang dirancang untuk menyimpan, mengambil dan memanipulasi data dalam ukuran besar secara efisien
+
+kenapa kita harus mengetahui untuk apa penggunaan database itu, Karena semua aplikasi terutama berbasis internet saat ini seperti Instagram, Youtube, Github, Tokopedia, BPJS, Internet Banking, itu semua menggunakan database
+Dan salah satu sistem database yang bisa kita gunakan yaitu PostgreSQL atau sering disingkat Postgres yaitu sebuah sistem manajemen basis data yang open-source yang kuat dan fleksibel. Artinya, ini adalah perangkat lunak untuk menyimpan, mengatur, dan mengambil data yang terhubung dalam tabel-tabel, dan bisa digunakan secara gratis serta dimodifikasi sesuai kebutuhan kita.
+
+- DIsini saya mencoba menginstal PostgreSQL :
   ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/1f7f1361-5557-4163-8ff1-5d40472f8657)
 
 
@@ -153,6 +158,12 @@ Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+
+Dbeaver, adalah aplikasi atau tools data base manajemen atau eksplorasi dan pengelolaan database yang universal yang berbasis GUI yang dapat mempermudah kita untuk menyimpan, mengambil dan memanipulasi untuk menyimpan, mengambil atau memodifikasi sebuah data yang berada di database, dan dbver ini bisa terhubung ke berbagai jenis database ditempat yang sama
+
+- Disini saya mencoba menghubungkan Dbeaver dengan PostgreSQL dan membuat tabel baru di Dbeaver :
+  ![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/4dbe2cf0-ba1f-4153-ac58-27f635dca90e)
+
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
