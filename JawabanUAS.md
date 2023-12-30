@@ -366,7 +366,13 @@ Penggunaan aplikasi MyMQTT ini pernah dilakukan bersama-sama di kelas mata kulia
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+Untuk video penjelasan dan Mencoba Memproses File CSV Google Colab dapat dilihat di link berikut :  
+
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
+Untuk video penjelasan dan Mencoba Memproses File Big Data ORC di Google Colab dapat dilihat di link berikut :  
+https://youtu.be/3GSV7rA61I8
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
