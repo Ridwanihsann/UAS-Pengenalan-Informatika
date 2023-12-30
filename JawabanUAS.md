@@ -378,6 +378,16 @@ https://youtu.be/ra2uJCO5-8M
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+Video presentasi tugas akhir Informatika yagn saya tonton yaitu dengan judul skripsi :  
+PERANCANGAN SISTEM INFORMASI PENGELOLAAN KAS MASJID BERBASIS WEB DENGAN METODE EXTREME PROGRAMMING (XP) DI MASJID BAITUL MUKHLISHIN KABUPATEN BEKASI  
+Oleh :  
+Tita Rahmasari
+
+Dari vedeo tugas akhir tersebut yaitu Membahas pembuatan sistem informasi pengelolaan kas berbasis web untuk pendataan pengelolaan kas Masjid Baitul Mukhlishin, dengan sistem yang dibuat terdiri dari jenis kas masuk, jenis kas keluar, data donator, data user, data transaksi, data laporan dan naïve bayes kelayakan donator tetap. Bahasa dan database yang digunakan dalam perancangan sistem informasi tersebut yaitu menggunakan bahasa pemrograman PHP dan menggunakan database MySQL, dengan menggunakan metode pengembangan Extreme Programming (XP) dan menggunakan algoritma Naïve Bayes.  
+
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/31a2a55b-1d5c-4d19-970d-5674c7481335)
+
+
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 Untuk video penjelasan dan Mengeksplor Profesi Terkait Informatika dan Profesi yang Diminati dapat dilihat di link berikut :  
