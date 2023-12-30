@@ -207,6 +207,11 @@ Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
+JSON (JavaScript Object Notation) adalah format data yang ringan dan mudah dibaca oleh manusia, serta mudah ditulis dan diproses oleh komputer. JSON sering digunakan untuk pertukaran data antara aplikasi web dan server, serta untuk menyimpan data dalam file.
+
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/59b20552-0ca3-425c-ada0-4f5f2dadb6d0)
+
+
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
