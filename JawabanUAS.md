@@ -376,6 +376,13 @@ https://youtu.be/ra2uJCO5-8M
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+Ada banyak sekali sumber untuk mencari referensi artikel jurnal internasional seperti IEEE, Arxiv, Science Direct, ACM, DBLP dan masih banyak lagi, situs-situs tersebut adalah situs web yang menyediakan akses ke jutaan dokumen penelitian dalam bidang fisika, matematika, ilmu komputer, biologi kuantitatif, keuangan kuantitatif, statistik, teknik elektro & sistem dan ekonomi. Dan beberapa dari Artikel tersebut biasanya berupa preprint dan postprint, yang berarti bahwa mereka telah ditulis dan dikirimkan untuk diterbitkan, tetapi belum melalui proses peer review.
+
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/3238b4e3-5584-4297-8b71-17331fc409ed)
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/09846cf7-3eba-4dc7-bb51-838052f6c83b)
+
+
+
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 Video presentasi tugas akhir Informatika yagn saya tonton yaitu dengan judul skripsi :  
