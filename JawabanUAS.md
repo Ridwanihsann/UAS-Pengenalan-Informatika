@@ -211,6 +211,9 @@ Referensi tutorial
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
+Untuk videonya dapat dilihat di link berikut :  
+https://youtu.be/nlepooR6aoQ
+
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
@@ -221,6 +224,9 @@ JSON (JavaScript Object Notation) adalah format data yang ringan dan mudah dibac
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+
+Untuk video Mencoba Web Hosting Untuk Halaman HTML dapat dilihat di link berikut :  
+https://youtu.be/AT7hllwg3jY
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
@@ -333,8 +339,10 @@ https://youtu.be/Sl_wMzaEHpg
 
 
 
-## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐  
 
+Untuk videonya dapat dilihat di link berikut :  
+https://youtu.be/cVEtbOqHwWk
 
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
