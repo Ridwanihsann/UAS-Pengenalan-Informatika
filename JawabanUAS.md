@@ -242,7 +242,7 @@ https://youtu.be/jxLFFgkRc6E
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐ 
 
 Untuk video penjelasan Layanan Cloud Service dapat dilihat di link berikut :  
-LINK LINK LINK LINK LINK👌👌👌👌
+https://youtu.be/dw1SRQZEJgM
 
 
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
