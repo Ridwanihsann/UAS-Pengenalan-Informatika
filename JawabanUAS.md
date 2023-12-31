@@ -200,6 +200,10 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
+Disini saya mencoba membuat game sederhana menggunakan HTML, CSS, dan JavaScript  
+![image](https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika/assets/144406695/cae1803f-6c31-4781-9c56-58fddbc8cc0a)
+
+
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
