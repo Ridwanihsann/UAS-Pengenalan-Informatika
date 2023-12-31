@@ -364,6 +364,10 @@ https://youtu.be/JnrBVHai7UM
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+Untuk videonya dapat dilihat di link berikut :  
+https://youtu.be/2PGrU2GAvn0
+
+
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 Untuk video penjelasan dan mencoba Eksplorasi Kaggle dapat dilihat di link berikut :  
