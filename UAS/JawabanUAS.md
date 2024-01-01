@@ -116,6 +116,8 @@ Contoh:
 - Notepad ++
 - Vim
 
+  video dalam proses
+
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐  
 
 HackerRank adalah platform online yang menyediakan tantangan pemrograman kompetitif untuk konsumen dan bisnis. Pengembang bersaing dengan menulis program sesuai dengan spesifikasi yang diberikan.
@@ -231,7 +233,13 @@ https://youtu.be/AT7hllwg3jY
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
+Video dalam proses
+
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+
+video dalam proses  
+![image](https://github.com/Ridwanihsann/UTS-UAS-Pengenalan-Informatika/assets/144406695/d0788903-7d08-4019-bcc9-7bef1d4343d0)
+
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
