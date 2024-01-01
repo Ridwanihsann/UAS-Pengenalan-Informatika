@@ -2,7 +2,7 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
-Link penjelasan di blog : https://wordpress.com/view/uaspi.wordpress.com
+Link penjelasan di blog : https://uaspi.wordpress.com/2023/12/28/menjelaskan-dan-menginternalisasi-computational-thinking-jenis-jenis-mesin-komputasi/
 
 Computational Thinking
 
