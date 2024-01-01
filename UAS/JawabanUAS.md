@@ -240,7 +240,10 @@ Video dalam proses
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-video dalam proses  
+Untuk video Mencoba Web Hosting Untuk Halaman HTML dapat dilihat di link berikut :  
+https://youtu.be/D5GGe68JHqU
+
+
 ![image](https://github.com/Ridwanihsann/UTS-UAS-Pengenalan-Informatika/assets/144406695/d0788903-7d08-4019-bcc9-7bef1d4343d0)
 
 
