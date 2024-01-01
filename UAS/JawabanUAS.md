@@ -107,6 +107,9 @@ Untuk link GitHubnya :https://github.com/Ridwanihsann/UAS-Pengenalan-Informatika
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+Untuk video mencoba penggunaan IDE dapat dilihat pada link berikut :  
+https://youtu.be/bAONBykuMJc
+
 IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
 Contoh:
 
