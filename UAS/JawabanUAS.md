@@ -22,7 +22,7 @@ Kesimpulan
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
-Link penjelasan di blog : https://wordpress.com/view/uaspi.wordpress.com
+Link penjelasan di blog : https://uaspi.wordpress.com/2023/12/28/menjelaskan-dan-menginternalisasi-computational-thinking-jenis-jenis-mesin-komputasi/
 
 Mesin komputasi adalah sistem yang terdiri dari perangkat keras (hardware) dan perangkat lunak (software) yang bekerja sama untuk menyelesaikan tugas-tugas komputasi. Perangkat keras merupakan komponen fisik yang dapat dilihat dan disentuh, sedangkan perangkat lunak merupakan kumpulan instruksi yang mengatur cara kerja perangkat keras.  
 
